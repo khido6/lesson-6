@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.proeqti{
+    background-color: rgb(10, 23, 199);
+    position: relative;
+    height: 250px;
+    color: #FFFFFF;
+    padding: 50px;
+    padding-left: 100px;
+}
+input{
+    width: 10px
+}
+.wert{
+    position: absolute;
+    top: 70px;
+    right: 200px; 
+}
+.wert1{
+    position: absolute;
+    top: 70px;
+    right: 175px;
+}
+.wert2{
+    position: absolute;
+    top: 70px;
+    right: 150px;
+}
